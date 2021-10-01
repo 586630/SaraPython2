@@ -1,0 +1,62 @@
+1. 
+if if will test both conditions, whereas if elif only tests elif if the condition returns false
+
+2.
+x = number1
+y = number2
+If x < 0 then
+    y = -x
+    Assign -x value to y
+
+3.
+a 
+
+if  10 > 11 then -- false
+    s = 10        
+else
+    s = 11       -- s = 11
+end if
+if 12 < 13 then  -- true
+    e = 12       -- e = 12
+else
+    e = 13
+end if
+if s < e then    -- true
+    The appointments overlap.  
+else
+    The appointments don’t overlap.
+end if
+
+The appointments overlap
+
+b
+
+if  10 > 12 then -- false
+    s = 10        
+else
+    s = 11       -- s = 12
+end if
+if 11 < 13 then  -- true
+    e = 11       -- e = 11
+else
+    e = 13
+end if
+if s < e then    -- false
+    The appointments overlap.  
+else
+    The appointments don’t overlap.
+end if
+
+ The appointments don’t overlap.
+
+ 4.
+ Vedlagt saraAlgFlow.PNG
+ 
+ 5. Dette fikser du
+
+ 6. 
+ 1 2 3 4 5 6 7 8 9
+ 1 3 5 7 9
+ None
+ 0 1 2 3 4 5 6 7 8 9
+ 2 4 6 8 
